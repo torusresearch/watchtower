@@ -25,7 +25,6 @@ require (
 	github.com/docker/go v1.5.1-1 // indirect
 	github.com/docker/go-connections v0.4.0 // indirect
 	github.com/docker/go-metrics v0.0.0-20181218153428-b84716841b82 // indirect
-	github.com/docker/go-units v0.3.3 // indirect
 	github.com/docker/libtrust v0.0.0-20160708172513-aabc10ec26b7 // indirect
 	github.com/gofrs/uuid v3.2.0+incompatible // indirect
 	github.com/google/certificate-transparency-go v1.0.21 // indirect
@@ -43,10 +42,10 @@ require (
 	github.com/onsi/gomega v1.10.1
 	github.com/opencontainers/go-digest v1.0.0-rc1 // indirect
 	github.com/opencontainers/image-spec v1.0.1 // indirect
-	github.com/opencontainers/runc v0.1.1 // indirect
+	github.com/opencontainers/runc v1.1.2 // indirect
 	github.com/prometheus/client_golang v0.9.3
 	github.com/robfig/cron v0.0.0-20180505203441-b41be1df6967
-	github.com/sirupsen/logrus v1.4.2
+	github.com/sirupsen/logrus v1.8.1
 	github.com/spf13/cobra v0.0.7
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.6.3
@@ -54,7 +53,7 @@ require (
 	github.com/theupdateframework/notary v0.6.1 // indirect
 	github.com/zmap/zlint v1.0.2 // indirect
 	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9 // indirect
-	golang.org/x/net v0.0.0-20200520004742-59133d7f0dd7
+	golang.org/x/net v0.0.0-20201224014010-6772e930b67b
 	golang.org/x/text v0.3.4 // indirect
 	gopkg.in/dancannon/gorethink.v3 v3.0.5 // indirect
 	gopkg.in/fatih/pool.v2 v2.0.0 // indirect
