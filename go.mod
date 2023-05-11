@@ -19,7 +19,7 @@ require (
 	github.com/containerd/continuity v0.0.0-20181203112020-004b46473808 // indirect
 	github.com/containrrr/shoutrrr v0.4.1
 	github.com/docker/cli v0.0.0-20190327152802-57b27434ea29
-	github.com/docker/distribution v2.7.1+incompatible
+	github.com/docker/distribution v2.8.2+incompatible
 	github.com/docker/docker v0.0.0-20190404075923-dbe4a30928d4
 	github.com/docker/docker-credential-helpers v0.6.1 // indirect
 	github.com/docker/go v1.5.1-1 // indirect
